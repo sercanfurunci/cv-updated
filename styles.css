@@ -1,0 +1,19 @@
+body{
+  background-color: #EAF6F6;
+}
+
+hr{
+  border-color: grey;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+}
+h1{
+  font-family: monospace;
+  color: #66BFBF;
+}
+h3{
+  font-family: cursive;
+  color: #66BFBF;
+}
